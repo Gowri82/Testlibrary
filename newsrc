@@ -1,8 +1,9 @@
 hi
 welcome to git respository  world
-<<<<<<< HEAD
-i m changing for master changes
-merge conflict line
 
-changing in new branch 
+i m changing for master changes
+<<<<<<< HEAD
+merge conflict line
+=======
+changes in branch file for conflict
 >>>>>>> new
