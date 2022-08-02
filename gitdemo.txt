@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 
+=======
+Welcome to GIT
+>>>>>>> 7319216 (first commit)
